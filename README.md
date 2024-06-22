@@ -8,6 +8,6 @@
 1. Descompactar arquivo .rar
 2. Instalar python na maquina
 3. Instalar bibliotecas:
-   - Pandas (pip install pandas)
-   - Numpy (pip install numpy)
-   - Matplotlib (pip install matplotlib)
+   - Pandas   `pip install pandas`
+   - Numpy   `pip install numpy`
+   - Matplotlib   `pip install matplotlib`
